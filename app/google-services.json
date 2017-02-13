@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282592057269",
+    "firebase_url": "https://integracionfirebase.firebaseio.com",
+    "project_id": "integracionfirebase",
+    "storage_bucket": "integracionfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282592057269:android:930222fd8d5f7751",
+        "android_client_info": {
+          "package_name": "alexis.pruebafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282592057269-kdv59aorrfhj4feojqk9l9p6as9oepbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alexis.pruebafirebase",
+            "certificate_hash": "7A942520CF7056AC314254213ADFA6BCC77C2679"
+          }
+        },
+        {
+          "client_id": "282592057269-57b572bff63rotjkptelp5cnv6dacmu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg3FZ23Pa9DvPaO42M78AegcRawWt1Dbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282592057269-57b572bff63rotjkptelp5cnv6dacmu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
